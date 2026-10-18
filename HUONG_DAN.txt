@@ -1,0 +1,23 @@
+HUONG DAN SUA LOI ANH TREN GITHUB PAGES
+
+1. Giai nen file ZIP nay.
+2. Mo repository GitHub dang chua website.
+3. Tai len cac file HTML va style.css o ngay thu muc goc (repository root).
+4. Tai len ca thu muc images (phai giu nguyen ten file va ten thu muc).
+5. Commit changes, doi 1-2 phut roi tai lai trang GitHub Pages.
+
+Cau truc dung:
+index.html
+thuvien_nguon.html
+style.css
+images/
+  cong-nha-may.jpg
+  hop-tac-quoc-te.jpg
+  landmark81.jpg
+  nha-may-vinfast.jpg
+  pham-nhat-vuong-hd.png
+  vinfast-vf7.jpg
+  vinfast-vf8.jpg
+  vinpearl.jpg
+
+Khong doi ten thu muc images hoac ten cac file anh. Cac duong dan trong HTML dung dang images/ten-anh.
